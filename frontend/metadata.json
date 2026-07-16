@@ -1,0 +1,4 @@
+{
+  "name": "R&D Artwork Image Gallery v2",
+  "description": "A governance, traceability, and coordination layer for R&D-owned artwork images, integrated with SQL Server (rd_artwork) and Cloud Storage (gs://rd_artgallery)."
+}
